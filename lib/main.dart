@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+//authentication UI 
 class AuthScreen extends StatefulWidget {
   @override
   _AuthScreenState createState() => _AuthScreenState();
